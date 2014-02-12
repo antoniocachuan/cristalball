@@ -6,12 +6,16 @@ public class CrystalBall {
 
 	public String getAnswer(){
 		String[] answers = {
-				"It is ceratin",
-				"It is decidedly so",
-				"All signs say YES",
-				"My reply is no",
-				"It is doubtful",
-				"Better not tell you now"
+				"Es muy probable",
+				"Definitivamente Si",
+				"Definitivamente No",
+				"Todo es posible",
+				"Mejor paso",
+				"Esta vez no",
+				"A nada",
+				"Para la próxima",
+				"Para que responder",
+				"Tú sabes la respuesta"
 		};
 		String answer="";
 		Random randomGenerator = new Random();
