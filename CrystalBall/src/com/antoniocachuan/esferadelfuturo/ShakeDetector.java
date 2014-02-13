@@ -1,4 +1,4 @@
-package com.example.crystalball;
+package com.antoniocachuan.esferadelfuturo;
 
 import android.hardware.Sensor;
 import android.hardware.SensorEvent;

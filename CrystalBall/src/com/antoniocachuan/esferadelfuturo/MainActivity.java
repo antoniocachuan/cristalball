@@ -1,4 +1,4 @@
-package com.example.crystalball;
+package com.antoniocachuan.esferadelfuturo;
 
 import android.app.Activity;
 import android.graphics.drawable.AnimationDrawable;
@@ -16,7 +16,8 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.example.crystalball.ShakeDetector.OnShakeListener;
+import com.antoniocachuan.esferadelfuturo.R;
+import com.antoniocachuan.esferadelfuturo.ShakeDetector.OnShakeListener;
 
 public class MainActivity extends Activity {
 	public static final String TAG = MainActivity.class.getSimpleName();//para darle la clase que estamos al log
